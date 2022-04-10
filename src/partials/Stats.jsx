@@ -28,8 +28,8 @@ function Stats() {
             </div>
             {/* 3rd item */}
             <div className="py-6 md:py-0 md:px-8">
-              <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">Sell & Buy Tax</div>
-              <div className="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Variable rate tax system to support the protocol</div>
+              <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">Variable Taxes </div>
+              <div className="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Variable rate sell & buy taxes designed to the protocol</div>
             </div>
           </div>
         </div>
