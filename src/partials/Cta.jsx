@@ -13,7 +13,7 @@ function Cta() {
 
             {/* CTA button */}
             <div className="flex justify-center mb-8" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-cta]">
-              <a className="btn text-white bg-purple-600 hover:bg-purple-700" href="https://liquidcapital.finance/whitepaper.pdf">Read the Whitepaper</a>
+              <a className="btn text-white bg-purple-600 hover:bg-purple-700" target="_blank" href="https://liquidcapital.finance/whitepaper.pdf">Read the Whitepaper</a>
             </div>
 
             {/* Check list */}
