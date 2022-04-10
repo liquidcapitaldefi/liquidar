@@ -1,4 +1,4 @@
-# Open PRO React
+# Liquid capital
 
 React landing page for Liquid Capital.
 
