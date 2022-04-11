@@ -13,7 +13,7 @@ function Stats() {
                 deserunt mollit laborum — semper quis lectus nulla.</p>
           </div>*/}
 
-          <div className="grid md:grid-cols-3 bg-gray-800 divide-y md:divide-y-0 md:divide-x divide-gray-700 px-6 md:px-0 md:py-8 text-center">
+          <div className="grid md:grid-cols-3 bg-gray-900 divide-y md:divide-y-0 md:divide-x divide-purple-600 px-6 md:px-0 md:py-8 text-center">
             {/* 1st item */}
             <div className="py-6 md:py-0 md:px-8">
               <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">147k% APY</div>

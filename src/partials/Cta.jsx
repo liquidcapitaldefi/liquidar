@@ -4,7 +4,7 @@ function Cta() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
-        <div className="pt-12 md:pt-20 border-t border-b border-gray-800">
+        <div className="pt-12 md:pt-20 border-t border-b border-purple-600">
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16" data-aos-id-cta>
 
             {/* Section header */}
@@ -13,7 +13,7 @@ function Cta() {
 
             {/* CTA button */}
             <div className="flex justify-center mb-8" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-cta]">
-              <a className="btn text-white bg-purple-600 hover:bg-purple-700" target="_blank" href="https://liquidcapital.finance/whitepaper.pdf">Read the Whitepaper</a>
+              <a className="btn text-black bg-purple-600 hover:bg-purple-700" target="_blank" href="https://liquidcapital.finance/whitepaper.pdf">Read the Whitepaper</a>
             </div>
 
             {/* Check list */}
