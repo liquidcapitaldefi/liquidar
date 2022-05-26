@@ -52,9 +52,8 @@ gain the following benefits:</p>
                   <circle className="stroke-current text-black" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Sustainable Fixed APY</h4>
-              <p className="text-lg text-gray-400 text-center">Liquid AR pays out
- 147,805% APY, 2.0197% Daily ROI (.041667% per rebase every 30 mins)</p>
+              <h4 className="h4 mb-2">Sustainable Dynamic APY</h4>
+              <p className="text-lg text-gray-400 text-center">Liquid AR implements a sustainable dynamic APY based on volume for ultimate protocol sustainability</p>
             </div>
 
             {/* 4th item */}

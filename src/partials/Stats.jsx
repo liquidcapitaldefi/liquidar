@@ -16,9 +16,8 @@ function Stats() {
           <div className="grid md:grid-cols-3 bg-gray-900 divide-y md:divide-y-0 md:divide-x divide-purple-600 px-6 md:px-0 md:py-8 text-center">
             {/* 1st item */}
             <div className="py-6 md:py-0 md:px-8">
-              <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">147k% APY</div>
-              <div className="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Liquid AR pays out
- 147,805% APY 2.0197% Daily ROI</div>
+              <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">Dynamic APY</div>
+              <div className="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Liquid AR implements a sustainable dynamic APY based on volume</div>
             </div>
             {/* 2nd item */}
             <div className="py-6 md:py-0 md:px-8">
