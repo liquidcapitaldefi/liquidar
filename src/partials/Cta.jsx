@@ -9,7 +9,7 @@ function Cta() {
 
             {/* Section header */}
             <h1 className="h2 mb-4" data-aos="fade-up" data-aos-anchor="[data-aos-id-cta]">Want to know more?</h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-cta]">Read our detailed whitepaper explaining Liquid Capital and our first PaaS (Protocol as a Service) offering Liquid AR.</p>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-cta]">Read our detailed whitepaper explaining Liquid Capital and our project first offering, Liquid AR.</p>
 
             {/* CTA button */}
             <div className="flex justify-center mb-8" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-cta]">

@@ -29,48 +29,20 @@ function HeroHome() {
         <div className="relative pt-32 pb-10 md:pt-40 md:pb-16">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+          <div className=" mx-auto text-center pb-12 md:pb-16">
           <img src={logo} width={150} style={{margin: '0 auto'}}></img>
             <h1 className="h1 mb-4" data-aos="fade-up">Liquid Capital</h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">We are proud to announce our first Protocol as a Service (PaaS) named Liquid AR. Inspired
-by Titano’s sustainability and success, we look to leverage this model as the backbone of
-Liquid Capital, providing a safe, stable and sustainable investment opportunity for our
-community and all our partner communities.</p>
-            <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
-              <div data-aos="fade-up" data-aos-delay="400">
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Liquid Capital is a team of proven DeFi veterans who seek to help elevate DeFi from the exciting but dangerous environment that it is to an equally exciting but far more safe environment for investors. Liquid Capital’s goal is to educate and protect investors by creating a learning platform, by identifying bona fide protocols and by helping crypto enthusiasts to create their own protocols using the LC team’s experience and expertise.</p>
+            
+
+       
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">In June 2022 Liquid Capital proudly launches its own first protocol called Liquid AR. An auto rebasing protocol inspired by Titano, but introducing a variable daily percentage yield to support stability and sustainability. Liquid AR launches its presale multichain in a way that supports the partner protocols that offer the $Liquid presale to their communities. As such Liquid AR as a protocol will act as the mortar between the protocols, helping build out Liquid Capital’s circle of trusted partners.</p>
+            <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-black bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" target="_blank" href="https://liquid-capital.gitbook.io/liquid-capital-white-paper/">Read The Whitepaper</a>
               </div>
-              {/*<div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a>
-  </div>*/}
-            </div>
-          </div>
-
-          {/* Hero image */}
-          <div>
-           {/* <div className="relative flex justify-center items-center" data-aos="fade-up" data-aos-delay="200">
-              <img className="mx-auto" src={HeroImage} width="1024" height="504" alt="Hero" />
-              <a className="absolute group" href="#0" onClick={(e) => { e.preventDefault(); e.stopPropagation(); setVideoModalOpen(true); }} aria-controls="modal">
-                <svg className="w-16 h-16 sm:w-20 sm:h-20 hover:opacity-75 transition duration-150 ease-in-out" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg">
-                  <defs>
-                    <linearGradient x1="78.169%" y1="9.507%" x2="24.434%" y2="90.469%" id="a">
-                      <stop stopColor="#EBF1F5" stopOpacity=".8" offset="0%" />
-                      <stop stopColor="#EBF1F5" offset="100%" />
-                    </linearGradient>
-                  </defs>
-                  <circle fill="url(#a)" cx="44" cy="44" r="44" />
-                  <path className="fill-current text-purple-600" d="M52 44a.999.999 0 00-.427-.82l-10-7A1 1 0 0040 37V51a.999.999 0 001.573.82l10-7A.995.995 0 0052 44V44c0 .001 0 .001 0 0z" />
-                </svg>
-              </a>
-</div>*/}
-            
-            {/* Modal */}
-            <Modal id="modal" ariaLabel="modal-headline" show={videoModalOpen} handleClose={() => setVideoModalOpen(false)}>
-              <div className="relative pb-9/16">
-                <iframe className="absolute w-full h-full" src="https://player.vimeo.com/video/174002812" title="Video" allowFullScreen></iframe>
               </div>
-            </Modal>
-
+          <div>
+            
           </div>
 
         </div>
