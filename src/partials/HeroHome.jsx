@@ -27,16 +27,13 @@ function HeroHome() {
 
         {/* Hero content */}
         <div className="relative pt-32 pb-10 md:pt-40 md:pb-16">
-
+        
           {/* Section header */}
           <div className=" mx-auto text-center pb-12 md:pb-16">
           <img src={logo} width={150} style={{margin: '0 auto'}}></img>
             <h1 className="h1 mb-4" data-aos="fade-up">Liquid Capital</h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Liquid Capital is a team of proven DeFi veterans who seek to help elevate DeFi from the exciting but dangerous environment that it is to an equally exciting but far more safe environment for investors. Liquid Capital’s goal is to educate and protect investors by creating a learning platform, by identifying bona fide protocols and by helping crypto enthusiasts to create their own protocols using the LC team’s experience and expertise.</p>
-            
-
-       
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">In June 2022 Liquid Capital proudly launches its own first protocol called Liquid AR. An auto rebasing protocol inspired by Titano, but introducing a variable daily percentage yield to support stability and sustainability. Liquid AR launches its presale multichain in a way that supports the partner protocols that offer the $Liquid presale to their communities. As such Liquid AR as a protocol will act as the mortar between the protocols, helping build out Liquid Capital’s circle of trusted partners.</p>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Welcome to the new era of Defi.</p>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Liquid Capital (LC) is designed to deliver what DeFi investors desire most: <b>safety</b>, <b>accountability</b>, and <b>sustainability</b>. Built and managed by a team of successful DeFi veterans who use the most effective strategies and tools, the project will set a new standard in the DeFi space in terms of profitability, sustainability, and safety. </p>    
             <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-black bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" target="_blank" href="https://liquid-capital.gitbook.io/liquid-capital-white-paper/">Read The Whitepaper</a>
               </div>

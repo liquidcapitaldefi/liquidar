@@ -1,19 +1,14 @@
 import React from 'react';
-
+import Stats from './Stats';
 function FeaturesBlocks() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <div className="py-12 md:py-20 border-t border-purple-600">
+
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Built For The Passive Investor.</h2>
-            <p className="text-xl text-gray-400">LAR gives investors holding $LQD (Liquid Token) positive rebases that automatically
-compound within their wallets without the need to lock or stake them. $LQD holders
-gain the following benefits:</p>
-          </div>
-
+    
+         
           {/* Items */}
           <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-16 items-start md:max-w-2xl lg:max-w-none" data-aos-id-blocks>
 
@@ -103,7 +98,8 @@ gain the following benefits:</p>
           </div>
 
         </div>
-      </div>
+        
+    
     </section>
   );
 }

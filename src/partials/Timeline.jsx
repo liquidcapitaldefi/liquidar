@@ -4,8 +4,9 @@ function Timeline() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      
         <div className="py-12 md:py-20">
-
+        <div className="py-12 md:py-20 border-t border-purple-600">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Liquid AR Roadmap</h2>
@@ -92,7 +93,7 @@ Each one of our launches will take advantage of our Mint 2.0 presale strategy.</
             </div>
 
           </div>
-
+          </div>
         </div>
       </div>
     </section>

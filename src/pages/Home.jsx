@@ -33,8 +33,12 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
+        <Target />
+
         <Stats />
         <FeaturesBlocks />
+        
+     
         <Timeline />
        {/* <Team />*/}
        <Cta />
