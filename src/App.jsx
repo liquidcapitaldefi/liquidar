@@ -45,7 +45,7 @@ function App() {
     <>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/features" element={<Features />} />
+       {/* <Route path="/features" element={<Features />} />
         <Route path="/pricing" element={<Pricing />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog-post" element={<BlogPost />} />
@@ -54,7 +54,7 @@ function App() {
         <Route path="/help" element={<Help />} />
         <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />
-  <Route path="/reset-password" element={<ResetPassword />} />
+  <Route path="/reset-password" element={<ResetPassword />} />*/}
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </>

@@ -29,7 +29,7 @@ Each one of our launches will take advantage of our Mint 2.0 presale strategy.</
                   <h4 className="h4">Launch</h4>
                 </div>
                 <li className="text-lg text-gray-400">Fair Launch on DEX</li>
-                <li className="text-lg text-gray-400">Liquidity Locked 10 years</li>
+                {/*<li className="text-lg text-gray-400">Liquidity Locked 10 years</li>*/}
                 <li className="text-lg text-gray-400">Pre-Launch Marketing</li>
                 <li className="text-lg text-gray-400">Audit</li>
                 <li className="text-lg text-gray-400">Dashboard Stress Test</li>

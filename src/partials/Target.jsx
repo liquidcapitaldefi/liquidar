@@ -1,28 +1,29 @@
 import React from 'react';
 
-import TargetImage from '../images/features-02-image.png';
+import TargetImage from '../images/circle.png';
 
 function Target() {
   return (
     <section>
+    
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:py-20 border-t border-purple-600">
-   
+        
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2" data-aos="fade-up">Liquid Capital consists of several key elements that combine to provide the new standard in DeFi</h2>
           </div>
-
+        
           {/* Items */}
           <div className="grid gap-20" data-aos-id-target>
-
+          
             {/* Item */}
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
-
+            
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-12 lg:col-span-12">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-          
+                <img className="relative inset-0 transform hover:scale-105 transition duration-700 ease-out" src={TargetImage} width="100%" height="600" alt="Circle of trust" /> 
                   <div className="mt-6" data-aos="fade-left" data-aos-delay="200" data-aos-anchor="[data-aos-id-target]">
                     <h4 className="h4 mb-2 text-purple-600" >Circle of Trusted Partners (CTP)</h4>
                     <p className="text-lg text-gray-400">Liquid Capital will serve as a focal point for a Circle of Trusted Partners who are doxxed to LC and have their projects vetted by LC. The CTP will provide reciprocal co-marketing, co-development of use cases, and additional support for other CTP members. This, in turn, ensures greater safety and security for DeFi investors.</p>
