@@ -33,7 +33,7 @@ function HeroHome() {
           <img src={logo} width={150} style={{margin: '0 auto'}}></img>
             <h1 className="h1 mb-4" data-aos="fade-up">Liquid Capital</h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Welcome to the new era of Defi.</p>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Liquid Capital (LC) is designed to deliver what DeFi investors desire most: <b>safety</b>, <b>accountability</b>, and <b>sustainability</b>. Built and managed by a team of successful DeFi veterans who use the most effective strategies and tools, the project will set a new standard in the DeFi space in terms of profitability, sustainability, and safety. </p>    
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Liquid Capital (LC) is designed to deliver what DeFi investors desire most: <b>safety</b>, <b>sustainability </b>, and <b>price stability</b>. Built and managed by a team of successful DeFi veterans who use the most effective strategies and tools, the project will set a new standard in the DeFi space in terms of profitability, sustainability, and safety. </p>    
             <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-black bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" target="_blank" href="https://liquid-capital.gitbook.io/liquid-capital-white-paper/">Read The Whitepaper</a>
               </div>
