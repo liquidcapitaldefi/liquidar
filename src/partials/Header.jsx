@@ -82,7 +82,7 @@ function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
             
               <li>
-                <a href="https://presale.liquidcapital.finance/"  className="btn-sm text-black bg-purple-600 hover:bg-purple-700 ml-3">Presale</a>
+                <a href="https://app.liquidcapital.finance/"  className="btn-sm text-black bg-purple-600 hover:bg-purple-700 ml-3">Dashboard</a>
               </li>
             </ul>
 
@@ -134,7 +134,7 @@ function Header() {
                   <Link to="/signin" className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center">Sign in</Link>
                 </li>*/}
                 <li>
-                  <a href="https://presale.liquidcapital.finance/" className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-black bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out">Presale</a>
+                  <a href="https://app.liquidcapital.finance/" className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-black bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out">Dashboard</a>
                 </li>
               </ul>
             </nav>
